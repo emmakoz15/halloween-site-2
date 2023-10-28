@@ -1,6 +1,6 @@
 html{
-    background-image: url("images/istockphoto-1024092858-612x612.jpg");
-    background-repeat: no-repeat;
+
+    background:black;
     background-size: cover;
     height: 100%;
     width: 100%;
@@ -47,6 +47,7 @@ html:hover .spider{
 
 .spider .eye.right{
     right: 15px;
+    
 }
 .spider .eye.left{
     left: 15px;
